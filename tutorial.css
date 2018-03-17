@@ -1,0 +1,43 @@
+/*Marc Holley, 04/10/16, CIS166AA 31865 , Professor Anderson*/
+/*configures header element*/
+header {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #66ff66;
+	color: #9966ff;
+	width: 100%;
+	font-size: 5em;
+}
+/*configures body element*/
+body { 
+	background-color: #66ccff;
+	color: #000000;
+}
+/*configure wrapper element*/
+#wrapper { width: 80%;
+		   margin-left: auto;
+		   margin-right: auto; 
+		   margin-bottom: 5%; }
+/*configures h1 elements*/
+h1 {
+	background-color: #66ff66;
+	color: #9966ff;
+	font-size: 1.5em;
+}
+/*configures paragraphs elements*/
+p {
+	background-color: #9966ff;
+	color: #66ccff;
+	font-size: 1em;
+}
+/*configures div elements*/
+div {
+	width: 25em;
+}
+/*configures syntaxhighlighter elements*/
+#function_syntax {
+	text-align: center;
+	font-size: 1em;
+	width: 100%;
+}
